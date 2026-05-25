@@ -1,2 +1,2 @@
 # my-portfolio
-My First Portfolio, Simple and elegant
+A Portfolio of me and my Projects
